@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @minminchan
 - 👀 I’m interested in data science, machine learning, deep learning
-- 🌱 I’m currently learning seo optimization, graphic design
 - 💞️ I’m looking to collaborate on anything under the sun
 - 📫 How to reach me minmin.chan@holmusk.com
 
